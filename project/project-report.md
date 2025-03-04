@@ -25,6 +25,7 @@ I shall spend more time on learning what hyper parameters mean in different mode
 
 ### Create a table with the models you ran, the hyperparameters modified, and the kaggle score.
 |model|CAT:iterations|RF:n_estimators|XT_n_estimators|score|
+|-----|--------------|---------------|---------------|-----|
 |initial|default|default|default|1.79631|
 |add_features|default|default|default|0.67743|
 |hpo1|10000|300|300|0.51021|
